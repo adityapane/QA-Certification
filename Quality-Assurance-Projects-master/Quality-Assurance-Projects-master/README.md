@@ -8,4 +8,3 @@ freeCodeCamp Quality Assurance certification projects: [Quality Assurance Projec
 
 ## Certification:
 
-<img src="qa-cert.jpg" width=500>
